@@ -1,3 +1,3 @@
 export const environment = {
-  apiBaseUrl:'https://bikkam-bank-api.azurewebsites.net/api'
+  apiBaseUrl:'https://bikkam-payment-api.azurewebsites.net//api'
 };
